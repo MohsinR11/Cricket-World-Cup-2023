@@ -1,9 +1,11 @@
 ****Dynamic Cricket Performance Analytics Dashboard****
 
 ***Overview***
+
 Welcome to the Dynamic Cricket Performance Analytics Dashboard project, built using Power BI. This dashboard analyzes cricket players' performance across five key roles and provides actionable insights to aid team selection, optimize player roles, and track performance trends in a tournament setting.
 
 ***Objective***
+
 The main goal of this project is to create a Power BI dashboard that:
 
 Analyzes player performance across various roles (Openers, Middle Order Specialists, All-Rounders, Finishers, and Fast Bowlers).
@@ -13,6 +15,7 @@ Tracks performance consistency and offers insights for strategic decision-making
 ***Key Features***
 
 **Player Analysis Across Key Roles:**
+
 In-depth analysis of players in five crucial roles:
 
 Openers
@@ -55,23 +58,25 @@ Custom visualizations for a more interactive experience.
 *Data Modeling:*
 
 Power BI's data model was used to structure and relate data for deeper analysis.
-Getting Started
-Prerequisites
 
 ***Insights***
 
 **This dashboard allows you to derive valuable insights, including:**
 
 *Optimizing Team Selection:*
+
 By analyzing player performance metrics across roles, you can make more informed decisions about which players to include in your team.
 
 *Tracking Performance Trends:*
+
 Use the performance trends to understand how players are performing across different matches and tournament stages.
 
 *Role-Specific Player Efficiency:*
+
 Understand the batting and bowling efficiency of players depending on their role, whether as openers or finishers.
 
 *Tournament-Specific Analysis:*
+
 Customize filters to view performance trends from the Qualifiers, Super 12, or other stages of the tournament.
 
 **Key Insights**
@@ -81,10 +86,13 @@ Analyzing strike rates and averages helps in selecting the best players for crit
 A performance matrix allows for side-by-side comparisons of top players (e.g., Jos Buttler vs Alex Hales).
 
 **Contributing**
+
 If you'd like to contribute to this project, feel free to fork the repository and create a pull request with your improvements or feature requests.
 
 *Contact*
+
 If you have any questions or feedback, feel free to reach out:
 
 Email: mohsinansari1799@gmail.com
+
 LinkedIn: www.linkedin.com/in/mohsin--raza
