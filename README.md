@@ -9,7 +9,9 @@ Welcome to the Dynamic Cricket Performance Analytics Dashboard project, built us
 The main goal of this project is to create a Power BI dashboard that:
 
 Analyzes player performance across various roles (Openers, Middle Order Specialists, All-Rounders, Finishers, and Fast Bowlers).
+
 Provides advanced metrics like strike rate, batting average, boundary percentage, and position-specific efficiency.
+
 Tracks performance consistency and offers insights for strategic decision-making in team selection.
 
 ***Key Features***
