@@ -21,22 +21,31 @@ Tracks performance consistency and offers insights for strategic decision-making
 In-depth analysis of players in five crucial roles:
 
 Openers
+
 Middle Order Specialists
+
 All-Rounders
+
 Finishers
+
 Fast Bowlers
 
 **Advanced Metrics & Visuals:**
 
 Performance trends per match.
+
 Correlation between strike rate and batting average.
+
 Boundary percentage tracking.
+
 Batting efficiency based on position.
 
 **Interactive Player Comparison Matrix:**
 
 Comparative study of top performers like Jos Buttler and Alex Hales.
+
 Performance consistency analysis.
+
 Impact scoring metrics for players based on their role.
 
 **Tournament-Specific Insights:**
@@ -84,7 +93,9 @@ Customize filters to view performance trends from the Qualifiers, Super 12, or o
 **Key Insights**
 
 Players in certain roles (e.g., openers) show more consistency than others.
+
 Analyzing strike rates and averages helps in selecting the best players for critical positions.
+
 A performance matrix allows for side-by-side comparisons of top players (e.g., Jos Buttler vs Alex Hales).
 
 **Contributing**
