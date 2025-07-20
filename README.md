@@ -1,111 +1,111 @@
-****Dynamic Cricket Performance Analytics Dashboard****
+# 🏏 **Dynamic Cricket Performance Analytics Dashboard (Power BI)**
 
-***Overview***
+---
 
-Welcome to the Dynamic Cricket Performance Analytics Dashboard project, built using Power BI. This dashboard analyzes cricket players' performance across five key roles and provides actionable insights to aid team selection, optimize player roles, and track performance trends in a tournament setting.
+## 🎯 **Overview**
 
-***Objective***
+Welcome to the **Dynamic Cricket Performance Analytics Dashboard**, built in **Power BI**. This interactive dashboard provides a **deep dive into cricket player performance** across **five key roles**, delivering **advanced metrics** and **insights** to support **team selection, strategy optimization**, and **performance tracking** in a tournament setting.
 
-The main goal of this project is to create a Power BI dashboard that:
+---
 
-Analyzes player performance across various roles (Openers, Middle Order Specialists, All-Rounders, Finishers, and Fast Bowlers).
+## 📌 **Project Objective**
 
-Provides advanced metrics like strike rate, batting average, boundary percentage, and position-specific efficiency.
+✅ Analyze player performance across crucial roles:
+- **Openers**
+- **Middle Order Specialists**
+- **All-Rounders**
+- **Finishers**
+- **Fast Bowlers**
 
-Tracks performance consistency and offers insights for strategic decision-making in team selection.
+✅ Deliver advanced metrics:
+- **Strike Rate**
+- **Batting Average**
+- **Boundary Percentage**
+- **Position-Specific Efficiency**
 
-***Key Features***
+✅ Track performance consistency and trends:
+- Match-by-match insights.
+- Tournament-stage breakdown (e.g., **Qualifiers**, **Super 12**).
 
-**Player Analysis Across Key Roles:**
+✅ Support strategic decision-making for **selectors, coaches**, and **analysts**.
 
-In-depth analysis of players in five crucial roles:
+---
 
-Openers
+## 🔍 **Key Features**
 
-Middle Order Specialists
+### ⚡ **1️⃣ Player Role Analysis**
+- Detailed breakdown of player performance for each role.
+- Insights into role-specific strengths and weaknesses.
 
-All-Rounders
+### ⚡ **2️⃣ Advanced Metrics & Visuals**
+- Trends in **strike rate**, **average**, and **boundary percentage**.
+- Correlation visuals for deeper performance understanding.
+- Batting/bowling efficiency by position.
 
-Finishers
+### ⚡ **3️⃣ Interactive Player Comparison Matrix**
+- Compare top players (e.g., **Jos Buttler vs Alex Hales**).
+- Analyze consistency, impact, and match contributions.
+- Identify top performers with role-based KPIs.
 
-Fast Bowlers
+### ⚡ **4️⃣ Tournament-Specific Insights**
+- Dynamic filters for **stages** (Qualifiers, Super 12, etc.).
+- See performance shifts as the tournament progresses.
 
-**Advanced Metrics & Visuals:**
+---
 
-Performance trends per match.
+## 📈 **Sample Insights**
 
-Correlation between strike rate and batting average.
+✅ Openers tend to be more consistent across matches.  
+✅ High strike rates with solid averages help select players for crucial positions.  
+✅ The **comparison matrix** enables selectors to choose the best player for each role.  
+✅ Tournament-stage filters reveal when players peak or underperform.
 
-Boundary percentage tracking.
+---
 
-Batting efficiency based on position.
+## 🚀 **How This Dashboard Helps**
 
-**Interactive Player Comparison Matrix:**
+- **Optimize Team Selection:** Pick the right players for each position based on data.
+- **Track Trends:** Spot in-form players during different stages.
+- **Compare Players:** Make side-by-side, role-specific comparisons.
+- **Drive Winning Strategies:** Back decisions with reliable insights.
 
-Comparative study of top performers like Jos Buttler and Alex Hales.
+---
 
-Performance consistency analysis.
+## 🖼️ **📸 Screenshots**
 
-Impact scoring metrics for players based on their role.
+Below are **7 key screenshots** showcasing different pages and visuals from the dashboard.  
+"C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-07-05 155128.png"
+"C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-07-05 155157.png"
+"C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-07-05 155217.png"
+"C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-07-05 155227.png"
+"C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-07-05 155236.png"
+"C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-07-05 155255.png"
 
-**Tournament-Specific Insights:**
 
-Filters to view data for different tournament stages (e.g., Qualifiers/Super 12).
+---
 
-**Tools & Technologies**
+## 🛠️ **Tools & Technologies**
 
-*Microsoft Power BI:*
+- **Power BI:** Data modeling & dashboard development.
+- **DAX (Data Analysis Expressions):** For advanced KPIs & calculations.
+- **Custom Visuals:** Enhanced interactivity and user experience.
+- **Power BI Data Model:** To relate, structure, and analyze complex cricket data.
 
-Data visualization and dashboard creation.
+---
 
-*DAX (Data Analysis Expressions):*
+## 🤝 **Contributing**
 
-Used for advanced calculations and metrics.
+🔧 Want to improve this project?  
+Fork the repo, add your enhancements, and submit a **pull request** — contributions are always welcome!
 
-*Custom Visuals:*
+---
 
-Custom visualizations for a more interactive experience.
+## 📬 **Contact**
 
-*Data Modeling:*
+📧 **Email:** mohsinansari1799@gmail.com  
+🔗 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/mohsin--raza/)  
+🌐 **GitHub:** [My GitHub Profile](https://github.com/mohsinR11)
 
-Power BI's data model was used to structure and relate data for deeper analysis.
+---
 
-***Insights***
-
-**This dashboard allows you to derive valuable insights, including:**
-
-*Optimizing Team Selection:*
-
-By analyzing player performance metrics across roles, you can make more informed decisions about which players to include in your team.
-
-*Tracking Performance Trends:*
-
-Use the performance trends to understand how players are performing across different matches and tournament stages.
-
-*Role-Specific Player Efficiency:*
-
-Understand the batting and bowling efficiency of players depending on their role, whether as openers or finishers.
-
-*Tournament-Specific Analysis:*
-
-Customize filters to view performance trends from the Qualifiers, Super 12, or other stages of the tournament.
-
-**Key Insights**
-
-Players in certain roles (e.g., openers) show more consistency than others.
-
-Analyzing strike rates and averages helps in selecting the best players for critical positions.
-
-A performance matrix allows for side-by-side comparisons of top players (e.g., Jos Buttler vs Alex Hales).
-
-**Contributing**
-
-If you'd like to contribute to this project, feel free to fork the repository and create a pull request with your improvements or feature requests.
-
-*Contact*
-
-If you have any questions or feedback, feel free to reach out:
-
-Email: mohsinansari1799@gmail.com
-
-LinkedIn: www.linkedin.com/in/mohsin--raza
+⭐ **If you find this useful, give it a ⭐ and connect!**
