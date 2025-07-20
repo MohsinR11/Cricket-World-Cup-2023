@@ -1,4 +1,4 @@
-# 🏏 **Dynamic Cricket Performance Analytics Dashboard (Power BI)**
+# 🏏 **Cricket Performance Analytics Dashboard**
 
 ---
 
