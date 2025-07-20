@@ -73,13 +73,15 @@ Welcome to the **Dynamic Cricket Performance Analytics Dashboard**, built in **P
 
 ## 🖼️ **📸 Screenshots**
 
-Below are **7 key screenshots** showcasing different pages and visuals from the dashboard.  
-"C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-07-05 155128.png"
-"C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-07-05 155157.png"
-"C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-07-05 155217.png"
-"C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-07-05 155227.png"
-"C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-07-05 155236.png"
-"C:\Users\DELL\Pictures\Screenshots\Screenshot 2025-07-05 155255.png"
+Below are **7 key screenshots** showcasing different pages and visuals from the dashboard:  
+
+![Page 1](C:/Users/DELL/Pictures/Screenshots/Screenshot%202025-07-05%20155128.png)  
+![Page 2](C:/Users/DELL/Pictures/Screenshots/Screenshot%202025-07-05%20155157.png)  
+![Page 3](C:/Users/DELL/Pictures/Screenshots/Screenshot%202025-07-05%20155217.png)  
+![Page 4](C:/Users/DELL/Pictures/Screenshots/Screenshot%202025-07-05%20155227.png)  
+![Page 5](C:/Users/DELL/Pictures/Screenshots/Screenshot%202025-07-05%20155236.png)  
+![Page 6](C:/Users/DELL/Pictures/Screenshots/Screenshot%202025-07-05%20155255.png)
+
 
 
 ---
